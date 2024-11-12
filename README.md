@@ -16,17 +16,6 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e
   
 
 
-<h1 align="center"> 🛰𝑹𝑶𝑴𝑬𝑲-𝑿𝑫🛰
-</p>
-   
-
-### ℹ️ **ABOUT ROMEK-XD-BOT**
-
-
->ROMEK-XD-BOT is a 🌟 versatile Multi-Device WhatsApp bot 🤖 recoded by the talented [Romeo-xd](https://github.com/Romeofaiz) It offers a wide array of features, making it an advanced 📡 and user-friendly bot for various purposes. 🎉📱 With its intuitive interface and robust capabilities, users can unlock endless possibilities 🚀 and streamline their communication across devices with ease.
-
-
-
 📡ＦＥＡＴＵＲＥＳ📡
 
 ◉ Multi-Device Support  
@@ -42,32 +31,17 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e
 
 ## 🛠️ `Installation Procedure`🛠
 
-#### SETUP
-
-1. Fork the repo
-    <br>
+```✪FORK THE REPOSITORY```
+    
 <a href='https://github.com/ROMEKTRICKS/ROMEK-XD-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-
-```2.✪PAIR-CODE```
-
-
-    <br>
+```✪PAIR-CODE```
 <a href='https://replit.com/@opaksmt/ROMEK-XD-BOT-bot-pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ### DEPLOY ON PANEL 
 
     <br>
 <p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/FREE-PANEL%20Account-red?style=for-the-badge&logo=Free-Panel" width="220" height="38.45"/></a></p>  
-
-
-
-
-
-
-
-
-
 
 
 
