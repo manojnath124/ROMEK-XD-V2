@@ -8,7 +8,7 @@
 
 
 ##  ℹ️```Bot Intro```ℹ️
-[![ROMEK-XD-BOT]([)](https://i.imgur.com/Bh2w0Ft.jpeg)]
+[![ROMEK-XD-BOT](https://i.imgur.com/Bh2w0Ft.jpeg)](https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e)
 </p>
 
 
