@@ -8,13 +8,10 @@
 
 
 ##  ℹ️```Bot Intro```ℹ️
-[![ROMEK-XD-BOT](https://graph.org/file/42dddbf821c776adb781e.jpg)](https://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g)
+[![ROMEK-XD-BOT]([)](https://i.imgur.com/Bh2w0Ft.jpeg)]
 </p>
-      <p align="center">
-  <a href="https://wa.me//+919341378016" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a aria-label="STAR-MD is free to use" href="https://chat.whatsapp.com/IjDcqwedu89K0Di6rknAox" "target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+
+
 
    
  
