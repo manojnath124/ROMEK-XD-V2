@@ -8,7 +8,7 @@
 
 
 ##  ℹ️```Bot Intro```ℹ️
-[![ROMEK-XD-BOT](https://i.imgur.com/Y63yvOV.jpeg)](https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e)
+[![ROMEK-XD-BOT](https://i.imgur.com/Bh2w0Ft.jpeg)](https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e)
 </p>
 
 
@@ -33,15 +33,15 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e
 
 ```✪FORK THE REPOSITORY```
     
-<a href='https://github.com/ROMEKTRICKS/ROMEK-XD-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<p align="center"><a href="https://github.com/Romeofaiz/ROMEK-XD-BOT/for"> <img src="https://img.shields.io/badge/GITHUB-FORK%20REPO-pink?style=for-the-badge&logo=github" width="190" height="38.45"/></a></p>
 
 ```✪PAIR-CODE```
-<p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/REPLIT-SESSION%20ID-green?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/REPLIT-SESSION%20ID-green?style=for-the-badge&logo=replit" width="190" height="38.45"/></a></p>
 
 ### DEPLOY ON PANEL 
 
     
-<p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/FREE-PANEL%20Account-blue?style=for-the-badge&logo=Free-Panel" width="220" height="38.45"/></a></p>  
+<p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/FREE-PANEL%20Account-blue?style=for-the-badge&logo=Free-Panel" width="190" height="38.45"/></a></p>  
 
 
 
@@ -49,35 +49,30 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e
 #### DEPLOY TO HEROKU 
 
 ☉ If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<p align="center"><a href="https://signup.heroku.com/"> <img src="https://img.shields.io/badge/HEROKU-CREATE%20ACCOUNT-A020F0?style=for-the-badge&logo=heroku" width="190" height="38.45"/></a></p>
 
 ☉Now Deploy
 
-<p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/HEROKU-DEPLOY%20BOT-A020F0?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Romeofaiz/ROMEK-XD-BOT"> <img src="https://img.shields.io/badge/HEROKU-DEPLOY%20BOT-A020F0?style=for-the-badge&logo=heroku" width="190" height="38.45"/></a></p>
 
 #### DEPLOY TO REPLIT
  If You don't have an account in Replit. Create a account.
-    <br>
-<a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+ 
+<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/REPLIT-CREATE%20ACCOUNT-FF4500?style=for-the-badge&logo=replit" width="190" height="38.45"/></a></p>
 
  Now Deploy
- <p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/REPLIT-DEPLOY%20BOT-FF4500?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-## `NEW DEPLOYMENT`
+ <p align="center"><a href="https://repl.it/github/salmanytofficial/XLICON-V2-MD"> <img src="https://img.shields.io/badge/REPLIT-DEPLOY%20BOT-FF4500?style=for-the-badge&logo=replit" width="190" height="38.45"/></a></p>
+
 
 
 
 #### DEPLOY TO KOYEB
 
 1. if you don't have a koyeb account. Create an account.
-   <br>
-   <p align="center"><a href="https://app.koyeb.com/auth/signup"> <img src="https://img.shields.io/badge/Koyeb account-blue?style=for-the-badge&logo=koyeb" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://app.koyeb.com/auth/signup"> <img src="https://img.shields.io/badge/KOYEB-CREATE%20ACCOUNT-black?style=for-the-badge&logo=koyeb" width="190" height="38.45"/></a></p>
 
-2. Now deploy
-   <br>
-  <p align="center"><a href="https://guru-bot-deploy.vercel.app"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="380" height="38.45"/></a></p>
-
-
+  ##2.Now deploy
+<p align="center"><a href="https://app.koyeb.com/auth/signup"> <img src="https://img.shields.io/badge/KOYEB-DEPLOY%20BOT-black?style=for-the-badge&logo=koyeb" width="190" height="38.45"/></a></p>
    
 
 ## 🔒 `Reminder`
@@ -85,9 +80,9 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 
 
-*`ＯＷＮＥＲ`* 😎
+  *`ＯＷＮＥＲ`* 😎
 
-[![ROMEK](https://github.com/Romeofaiz.png?size=300)](https://github.com/Romeofaiz), 
+[![ROMEK](https://github.com/ROMEKTRICKS.png?size=300)](https://github.com/ROMEKTRICKS), 
 
 
 
