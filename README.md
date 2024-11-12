@@ -12,21 +12,8 @@
 </p>
 
 
-
-   
- 
-<p align="center">
-<a href='https://chat.whatsapp.com/IjDcqwedu89K0Di6rknAox' 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/IjDcqwedu89K0Di6rknAox" target="_blank">
-
-   <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-  <a
- href="https://wa.me//+918433897160"></a>
-</p>
-
-  </a>
+WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e"><img alt="WhatsApp" src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png"/></a>
+  
 
 
 <h1 align="center"> 🛰𝑹𝑶𝑴𝑬𝑲-𝑿𝑫🛰
