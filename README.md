@@ -36,8 +36,7 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e
 <a href='https://github.com/ROMEKTRICKS/ROMEK-XD-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ```✪PAIR-CODE```
-
-<a href='https://replit.com/@opaksmt/ROMEK-XD-BOT-bot-pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/REPLIT-SESSION%20ID-green?style=for-the-badge&logo=session-id" width="220" height="38.45"/></a></p>
 
 ### DEPLOY ON PANEL 
 
@@ -63,9 +62,7 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e
 <a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
  Now Deploy
-    <br>
-    <a href='https://repl.it/github/salmanytofficial/XLICON-V2-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
+    <p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/REPLIT-DEPLOY%20BOT-pink?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 ## `NEW DEPLOYMENT`
 
 
