@@ -53,8 +53,8 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ☉Now Deploy
-    <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Romeofaiz/ROMEK-XD-BOT' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+<p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/HEROKU-DEPLOY%20BOT-A020F0?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 #### DEPLOY TO REPLIT
  If You don't have an account in Replit. Create a account.
