@@ -36,7 +36,7 @@ WhatsApp Channel: <a href="https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e
 <a href='https://github.com/ROMEKTRICKS/ROMEK-XD-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ```✪PAIR-CODE```
-<p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/REPLIT-SESSION%20ID-green?style=for-the-badge&logo=session-id" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://www.evoshosting.com"> <img src="https://img.shields.io/badge/REPLIT-SESSION%20ID-green?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 ### DEPLOY ON PANEL 
 
