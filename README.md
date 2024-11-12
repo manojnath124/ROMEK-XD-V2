@@ -7,7 +7,7 @@
 <p align="href">
 
 
-##  ℹ️```Bot Intro```ℹ️
+##  🤖```Bot Intro```🤖
 [![ROMEK-XD-BOT](https://i.imgur.com/Y63yvOV.jpeg)](https://whatsapp.com/channel/0029VakaPzeD38CV78dbGf0e)
 </p>
 
